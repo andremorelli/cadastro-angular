@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Andre Morelli",
+      "preco": 12589.12
+    },
+    {
+      "id": 2,
+      "nome": "Bruna Antonia",
+      "preco": 9879.64
+    },
+    {
+      "id": 3,
+      "nome": "Davi Morelli",
+      "preco": 27745.11
+    },
+    {
+      "id": 4,
+      "nome": "Irene Afonso ",
+      "preco": "5671.17"
+    },
+    {
+      "nome": "Nonato Raimundo ",
+      "preco": "12543.89",
+      "id": 5
+    }
+  ]
+}
